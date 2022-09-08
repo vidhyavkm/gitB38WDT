@@ -20,3 +20,6 @@ who are seeing ur project can read this and understand about ur project .
 description=> this is a onle line description about the project.
 
 dangerzone=> archive, visibility, transfer ownership, delete
+
+github pages=> we can see the output in github itself , only when we have 
+index.html and style.css files alone.(no need netlify)
