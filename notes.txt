@@ -23,3 +23,19 @@ dangerzone=> archive, visibility, transfer ownership, delete
 
 github pages=> we can see the output in github itself , only when we have 
 index.html and style.css files alone.(no need netlify)
+
+gitbash=> git config username and email
+
+git config list
+
+git clone=> we can open a file in git as well as our pc.
+
+by using ls we can see the listof files inside the repo
+
+git init
+git remote
+git add .
+git commit -m "commit message"
+git push
+
+
